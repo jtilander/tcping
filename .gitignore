@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+
+
+src/master.opensdf
+src/master.sdf
+src/tcping-64/x64/
